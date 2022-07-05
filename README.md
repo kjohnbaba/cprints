@@ -1,1 +1,1 @@
-# cprints
+Small print exercise
