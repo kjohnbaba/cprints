@@ -1,1 +1,1 @@
-Small print exercise
+Small print exercise in C
